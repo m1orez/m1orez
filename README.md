@@ -1,7 +1,7 @@
 ## 📊 GitHub Stats
 
-![m1orez's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1orez&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1orez&layout=compact&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=m1orez&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+## 🎧 Now Playing on Spotify
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=m1orez_beats&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/paulinewalhout)
